@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Priority: Critical",
+        "color": "8c001a",
+        "description": "우선순위 긴급"
+    },
+    {
+        "name": "⚙ Setting",
+        "color": "e3dede",
+        "description": "개발 환경 세팅"
+    },
+    {
+        "name": "Priority: High",
+        "color": "FF0000",
+        "description": "우선순위 상"
+    },
+    {
+        "name": "Priority: Low",
+        "color": "F9966b",
+        "description": "우선순위 하"
+    },
+    {
+        "name": "Status: Done",
+        "color": "a0ffb8",
+        "description": "리뷰까지 완료 된 이슈"
+    },
+    {
+        "name": "Status: Duplicated",
+        "color": "cfd3d7",
+        "description": "이미 보고 된 이슈",
+        "aliases": [
+            "duplicate"
+        ]
+    },
+    {
+        "name": "Status: In Progress",
+        "color": "539606",
+        "description": "현재 처리 중인 이슈"
+    },
+    {
+        "name": "Status: Pending",
+        "color": "66e26c",
+        "description": "보류 중인 이슈",
+        "aliases": [
+            "wontfix"
+        ]
+    },
+    {
+        "name": "Status: Reviewing",
+        "color": "2db78b",
+        "description": "처리하고 리뷰 중인 이슈"
+    },
+
+    {
+        "name": "⚙ Setting",
+        "color": "e3dede",
+        "description": "개발 환경 세팅"
+    },
+    {
+        "name": "📃 Docs",
+        "color": "1D76DB",
+        "description": "문서 관련"
+    },
+    {
+        "name": "🐞 Bug",
+        "color": "d73a4a",
+        "description": "Something isn't working"
+    },
+    {
+        "name": "📖 Feature",
+        "color": "d73a4a",
+        "description": "추가 기능"
+    },
+    {
+        "name": "⏏️ Enhancement",
+        "color": "d73a4a",
+        "description": "개선 사항"
+    },
+    {
+        "name": "🎨 UI",
+        "color": "FEF2C0",
+        "description": "화면 & 디자인"
+    },
+    {
+        "name": "✅ Test",
+        "color": "ccffc4",
+        "description": "test 관련"
+    }
+]
